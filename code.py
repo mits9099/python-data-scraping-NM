@@ -153,14 +153,8 @@ if __name__ == "__main__":
     authentication.set_access_token(access_token, access_token_secret)
     api = tweepy.API(authentication, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
     dataprocess()
-    #jcolec()
-    #twe=str(tweetslist)
-    #f.write(twe)    #calling function dataprocess
+	#calling function dataprocess
     tf (tweetslist)
-    #print(possitive)
-    #print(negetive)
-    #print(tweetslist[9])
-    #
     rom = pyplot.figure()
     x = rom.add_axes([0,0,1,1])
     disgraph = ['Possitive', 'Neutral', 'Negative']
