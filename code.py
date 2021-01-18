@@ -8,10 +8,10 @@ import re
 #import jsonpickle
 import time
 # Twitter developer app
-access_token = '2897284776-zup0PRNQz3oZq0MyA9A8nkCU5jfgERELFQ4hty4'
-access_token_secret = 'eFwK7rIpKP5KsMPLOsUU4S6Kr7wM28cTQleCr0hEr29EO'
-consumer_token = 'BvzQwQ8fWQsVfanO3lYHaIord'
-consumer_token_secret = 'Bej8fH5HfqYJl5YOJw7fRVTaiQKsr3fP2dQaddoVSgVB3FQ4LY'
+access_token = '2897284776-zup0PRNQz3oZq0MyA9A8nkCU5jfgERELFQ4hty4'		#doesn't work now
+access_token_secret = 'eFwK7rIpKP5KsMPLOsUU4S6Kr7wM28cTQleCr0hEr29EO'		#doesn't work now
+consumer_token = 'BvzQwQ8fWQsVfanO3lYHaIord'					#doesn't work now
+consumer_token_secret = 'Bej8fH5HfqYJl5YOJw7fRVTaiQKsr3fP2dQaddoVSgVB3FQ4LY'	#doesn't work now
 #Mongodb connection
 #client = MongoClient('localhost',27017)
 #database = client['analysisNM']
